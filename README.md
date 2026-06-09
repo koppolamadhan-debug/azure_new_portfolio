@@ -27,7 +27,7 @@ This project demonstrates how to deploy a static portfolio website using Microso
 
 ## GitHub Repository Link
 
-[PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE](https://github.com/koppolamadhan-debug/azure_new_portfolio.git)
+(https://github.com/koppolamadhan-debug/azure_new_portfolio.git)
 
 ## Outcome
 
