@@ -23,11 +23,11 @@ This project demonstrates how to deploy a static portfolio website using Microso
 
 ## Live Website URL
 
-PASTE_YOUR_AZURE_URL_HERE
+[PASTE_YOUR_AZURE_URL_HERE](https://madhanportfolio.z29.web.core.windows.net/)
 
 ## GitHub Repository Link
 
-PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
+[PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE](https://github.com/koppolamadhan-debug/azure_new_portfolio.git)
 
 ## Outcome
 
